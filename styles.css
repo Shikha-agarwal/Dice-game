@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(0, 0, 0, 0.692);
+    color:cadetblue
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    font-weight: bold;
+}
+.flag{
+    width:5rem;
+}
+.container{
+    margin:auto;
+    text-align: center;
+}
+.dice{
+    display: inline-block;
+    padding-top: 3.5rem;
+}
+img{
+    width: 80%;
+}
+.copyright{
+    text-align: center;
+    color:grey;
+    padding-top: 9rem;
+}
